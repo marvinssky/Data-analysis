@@ -1,0 +1,273 @@
+user_id,platform,platform_version,device
+22782,ios,10.2,"iPhone7,2"
+22783,android,6,Nexus 5
+22784,android,5.1,SM-G903F
+22785,ios,10.2,"iPhone7,2"
+22786,android,6,ONE E1003
+22787,android,4.3,GT-I9505
+22788,android,6,SM-G930F
+22789,android,6,SM-G930F
+22790,android,5.1,D2303
+22791,ios,10.2,"iPhone6,2"
+22792,android,5.1,SM-G361F
+22793,android,5.1,SM-G361F
+22794,android,5.1,SM-G361F
+22795,android,5.1,SM-G361F
+22796,ios,10.2,"iPhone7,2"
+22797,ios,10.1,"iPhone5,2"
+22798,ios,10.1,"iPhone5,2"
+22799,android,6,ONEPLUS A3003
+22800,android,4.4,SM-A300FU
+22801,android,4.4,GT-I9505
+22802,android,4.4,GT-I9505
+22803,android,5.1,ONE E1003
+22804,android,6,SM-G935F
+22805,android,4.2,GT-I9195
+22806,android,6,A0001
+22807,android,6,ONEPLUS A3003
+22808,android,6,SM-G900F
+22809,ios,10.2,"iPhone7,2"
+22810,ios,10.2,"iPhone8,1"
+22811,ios,9.3,"iPad3,1"
+22812,ios,9.3,"iPad3,1"
+22813,android,4.4,HTC Desire 510
+22814,android,4.4,HTC Desire 510
+22815,android,4.4,HTC Desire 510
+22816,android,4.4,HTC Desire 510
+22817,android,4.4,HTC Desire 510
+22818,android,4.4,HTC Desire 510
+22819,android,4.4,HTC One mini 2
+22820,android,4.4,HTC One mini 2
+22821,android,4.4,HTC One mini 2
+22822,android,4.4,HTC One mini 2
+22823,android,6,SM-G900F
+22824,android,6,SM-G900F
+22825,ios,10.1,"iPhone9,4"
+22826,ios,10.1,"iPhone9,4"
+22827,ios,10.2,"iPhone7,2"
+22828,ios,10.2,"iPhone7,2"
+22829,ios,10.1,"iPhone7,2"
+22830,android,6,SM-G900F
+22831,android,4.1,GT-I8190N
+22832,android,6,D5803
+22833,android,6,E6653
+22834,android,6,SM-G900F
+22835,android,6,SM-G920F
+22836,android,6,SM-G920F
+22837,ios,10.2,"iPhone7,2"
+22838,ios,9.3,"iPhone7,2"
+22839,android,6,A0001
+22840,android,6,SM-G935F
+22841,android,5.1,SM-G361F
+22842,ios,10.2,"iPhone8,4"
+22843,ios,10.2,"iPhone8,4"
+22844,ios,9.3,"iPad2,4"
+22845,ios,9.3,"iPad2,4"
+22846,ios,9.3,"iPad2,4"
+22847,ios,9.3,"iPad2,4"
+22848,ios,9.3,"iPad2,4"
+22849,android,6,SM-A310F
+22850,android,6,SM-A310F
+22851,ios,10,"iPhone5,2"
+22852,android,6,SM-G935F
+22853,android,6,SM-G935F
+22854,android,5.1,D2303
+22855,android,6,SM-N910F
+22856,android,4.4,SM-G360F
+22857,ios,10.2,"iPhone7,2"
+22858,android,7,ONEPLUS A3003
+22859,ios,10.1,"iPhone7,2"
+22860,ios,9.3,"iPhone4,1"
+22861,android,4.1,HTC One S
+22862,android,4.1,HTC One S
+22863,android,6,ONEPLUS A3003
+22864,android,6,SM-G900F
+22865,android,6,SM-G900F
+22866,android,6,SM-G900F
+22867,ios,10.2,"iPhone5,2"
+22868,ios,10.2,"iPhone5,2"
+22869,ios,10.2,"iPhone7,2"
+22870,ios,10.2,"iPhone7,2"
+22871,android,4.3,GT-I9300
+22872,android,4.3,GT-I9300
+22873,android,5.1,SM-J320FN
+22874,android,6,SM-G900F
+22875,android,5,GT-I9505
+22876,android,5,GT-I9505
+22877,android,6,ONE E1003
+22878,ios,10.2,"iPhone8,1"
+22879,android,6,HTC Desire 530
+22880,android,5,GT-I9505
+22881,android,6,HTC Desire 825
+22882,android,6,F3111
+22883,android,6,F3111
+22884,android,6,F3111
+22885,android,6,SM-G900F
+22886,android,5.1,SM-G800F
+22887,android,4.4,GT-I9195
+22888,android,5,GT-I9505
+22889,android,6,SM-G920F
+22890,android,6,SM-G900F
+22891,android,5,SM-N9005
+22892,android,7.1,Nexus 5X
+22893,ios,10.1,"iPhone9,3"
+22894,ios,10.2,"iPhone8,4"
+22895,android,6,SM-G925F
+22896,android,6,SM-G925F
+22897,android,6,SM-G900F
+22898,ios,10.2,"iPhone7,2"
+22899,android,6,SM-G925F
+22900,android,6,SM-G925F
+22901,android,6,SM-G925F
+22902,android,6,SM-G925F
+22903,android,6,SM-N910F
+22904,ios,9.3,"iPhone4,1"
+22905,ios,9.3,"iPhone4,1"
+22906,ios,9.3,"iPhone4,1"
+22907,android,5,SM-G900F
+22908,android,5,GT-I9505
+22909,android,6,HTC Desire 825
+22910,ios,7.1,"iPhone3,1"
+22911,ios,10.2,"iPhone5,4"
+22912,android,6,SM-N910F
+22913,ios,7.1,"iPhone3,2"
+22914,ios,10,"iPad4,5"
+22915,ios,10.2,"iPhone7,2"
+22916,android,4.4,GT-I9195
+22917,ios,10.2,"iPhone6,2"
+22918,ios,10.1,"iPhone5,2"
+22919,ios,10.1,"iPad4,1"
+22920,android,6,D6603
+22921,android,6,D6603
+22922,android,6,LG-H815
+22923,android,5,GT-I9505
+22924,ios,10,"iPhone6,2"
+22925,ios,10.1,"iPhone7,2"
+22926,android,5,GT-I9515
+22927,android,5,GT-I9515
+22928,android,6,EVA-L09
+22929,ios,10.2,"iPhone7,2"
+22930,ios,10.2,"iPhone7,2"
+22931,android,6,EVA-L09
+22932,android,6,SM-G900F
+22933,android,6,SM-G900F
+22934,android,6,SM-G900F
+22935,android,6,SM-G900F
+22936,android,6,ONEPLUS A3003
+22937,android,6,HTC One M9
+22938,android,6,SM-G920F
+22939,android,4.4,SM-A300FU
+22940,ios,9.3,"iPhone4,1"
+22941,android,6,SM-G920F
+22942,android,5,GT-I9505
+22943,android,4.1,GT-N7100
+22944,android,4.1,GT-N7100
+22945,android,6,HTC Desire 626
+22946,android,6,HTC Desire 626
+22947,ios,10,"iPhone7,2"
+22948,ios,10.2,"iPhone6,2"
+22949,android,6,SM-G925F
+22950,android,6,Moto G (4)
+22951,android,6,Moto G (4)
+22952,ios,10.2,"iPhone7,2"
+22953,ios,9.2,"iPhone7,2"
+22954,ios,10.2,"iPhone7,2"
+22955,android,4.3,GT-I9300
+22956,ios,9.3,"iPhone6,2"
+22957,ios,9.3,"iPhone6,2"
+22958,ios,9.3,"iPhone6,2"
+22959,ios,9.3,"iPhone6,2"
+22960,ios,9.3,"iPhone6,2"
+22961,ios,9.3,"iPhone6,2"
+22962,android,6,SM-N910F
+22963,android,6,ONE A2003
+22964,android,6,SM-G900F
+22965,android,5,GT-I9505
+22966,android,6,SM-G900F
+22967,android,6,SM-A500FU
+22968,android,6,ONEPLUS A3003
+22969,android,6,ONEPLUS A3003
+22970,android,5,SM-G900F
+22971,android,5.1,SM-G903F
+22972,android,5.1,SM-G903F
+22973,ios,9,"iPhone5,4"
+22974,android,5.1,Lenovo K51c78
+22975,android,6,SM-G900F
+22976,ios,10.2,"iPhone6,2"
+22977,android,5,GT-I9505
+22978,android,6,SM-G900F
+22979,android,5.1,D5503
+22980,android,4.4,SM-G900F
+22981,android,4.4,X11
+22982,android,6,SM-G935F
+22983,ios,10.2,"iPhone6,2"
+22984,ios,10.2,"iPhone6,2"
+22985,android,5,GT-I9515
+22986,android,5.1,D5503
+22987,android,6,HTC Desire 825
+22988,android,5,SM-G360F
+22989,android,6,HUAWEI VNS-L31
+22990,android,6,HUAWEI VNS-L31
+22991,android,6,SM-G900F
+22992,android,6,SM-N910F
+22993,android,6,SM-N910F
+22994,android,6,SM-A300FU
+22995,android,6,SM-A300FU
+22996,ios,10.2,"iPhone6,2"
+22997,android,5,GT-I9505
+22998,android,6,SM-G920F
+22999,android,5,GT-I9506
+23000,android,6,HUAWEI VNS-L31
+23001,android,6,SM-G920F
+23002,android,6,SM-G920F
+23003,android,5.1,HUAWEI CUN-L01
+23004,ios,10.2,"iPhone7,2"
+23005,android,6,SM-G900F
+23006,ios,10.1,"iPhone7,2"
+23007,ios,10.1,"iPhone6,2"
+23008,ios,10.1,"iPhone6,2"
+23009,ios,10.1,"iPhone6,2"
+23010,ios,10.1,"iPhone6,2"
+23011,ios,10.1,"iPhone6,2"
+23012,ios,9.3,"iPhone6,2"
+23013,android,6,SM-G900F
+23014,ios,10.1,"iPhone6,2"
+23015,android,6,SM-A300FU
+23016,android,6,SM-G900F
+23017,android,6,F3111
+23018,android,6,Moto G (4)
+23019,android,5.1,SM-J320FN
+23020,android,5.1,SM-G361F
+23021,android,6,SM-G930F
+23022,ios,10.2,"iPad5,3"
+23023,android,7,ONEPLUS A3003
+23024,android,6,MotoE2(4G-LTE)
+23025,ios,10.1,"iPhone6,2"
+23026,android,6,ONE A2003
+23027,android,4.4,X11
+23028,android,5.1,C6603
+23029,android,6,HTC One_M8
+23030,android,5.1,SM-J320FN
+23031,android,5.1,SM-J320FN
+23032,android,5.1,SM-J320FN
+23033,ios,10.2,"iPhone7,1"
+23034,android,5.1,SM-J320FN
+23035,ios,10.2,"iPhone7,2"
+23036,android,5.1,VF-795
+23037,ios,10.2,"iPhone7,1"
+23038,ios,10.2,"iPhone7,1"
+23039,android,5.1,SM-G531F
+23040,android,4.4,HTC Desire 620
+23041,android,6,SM-G900F
+23042,android,6,SM-G900F
+23043,android,6,SM-G900F
+23044,android,6,SM-G900F
+23045,ios,10.2,"iPhone7,1"
+23046,android,6,Moto G (4)
+23047,ios,10.2,"iPhone7,1"
+23048,android,6,ONEPLUS A3003
+23049,android,6,SM-G900F
+23050,ios,10.2,"iPhone7,2"
+23051,ios,10.2,"iPhone7,2"
+23052,ios,10.1,"iPhone8,4"
+23053,android,5.1,Vodafone Smart ultra 6
